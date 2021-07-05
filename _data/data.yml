@@ -24,7 +24,7 @@ sidebar:
     twitter: '@natanaelpantoja'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Portuguese (Brazil)
@@ -52,6 +52,18 @@ career-profile:
       Always acting as trust advisor in key accounts of different segments like financial, retail and CPG defining the strategy for sales, partners and customer teams. 
       I have invested in a diversified knowledge to continue helping teams in the strategy of delivering value to the client always seeking to deliver a solution that is technically and financially feasible.
 education:
+    - degree: EMBA in Innovation and Venture Capital
+      university: Owen Graduate School of Management (USA - Vanderbuilt)
+      time: 2017 - 2019
+
+    - degree: EMBA in Business Strategy and Cross Cultural Teams
+      university: Beedie School of Business (Canada)
+      time: 2017 - 2019
+
+   - degree: EMBA in International Business and Family Business
+      university: ITAM (Mexico)
+      time: 2017 - 2019
+
     - degree: MBA in Business Administration
       university: FIA Business School
       time: 2017 - 2019
