@@ -36,16 +36,14 @@ sidebar:
       - idiom: Spanish
         level: Professional
 
-    #interests:
-      #- item: Climbing
+    interests:
+      - item: Entrepreneurship
       #  link:
 
-      #- item: Snowboarding
+      - item: Cycling
       #  link:
 
-      #- item: Cooking
-      #  link:
-
+      - item: Games
 career-profile:
     title: Career Profile
     summary: |
@@ -186,4 +184,4 @@ skills:
         level: 60%
 
 footer: >
-    Natanael Pantoja
+   Powered By Natanael Pantoja 2021
