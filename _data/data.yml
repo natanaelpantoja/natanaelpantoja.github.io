@@ -90,7 +90,7 @@ experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
-      details: |
+      #details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -103,7 +103,7 @@ experiences:
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
-      details: |
+      #details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -112,7 +112,7 @@ experiences:
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
-      details: |
+      #details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
