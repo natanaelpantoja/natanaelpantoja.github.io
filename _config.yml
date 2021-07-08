@@ -3,7 +3,7 @@
 # Site Settings
 title: Natanael Pantoja | Personal Profile
 url: 'https://natanaelpantoja.me'
-baseurl: '/natanaelpantoja.github.com' #change it according to your repository name
+baseurl: '/natanaelpantoja.me' #change it according to your repository name
 description: Look my personal profile. Here you can find all the information about me and my career.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: orange # blue turquoise green berry orange ceramic
